@@ -1,0 +1,7 @@
+C:\Users\Жека\source\repos\Cure\Cure\bin\Debug\Cure.exe.config
+C:\Users\Жека\source\repos\Cure\Cure\bin\Debug\Cure.exe
+C:\Users\Жека\source\repos\Cure\Cure\bin\Debug\Cure.pdb
+C:\Users\Жека\source\repos\Cure\Cure\obj\Debug\Cure.csprojAssemblyReference.cache
+C:\Users\Жека\source\repos\Cure\Cure\obj\Debug\Cure.csproj.CoreCompileInputs.cache
+C:\Users\Жека\source\repos\Cure\Cure\obj\Debug\Cure.exe
+C:\Users\Жека\source\repos\Cure\Cure\obj\Debug\Cure.pdb
